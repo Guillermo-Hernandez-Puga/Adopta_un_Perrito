@@ -1,0 +1,31 @@
+
+body{
+    flex-direction: column;
+}
+.card-container{
+    display: flex;
+    gap:15px;
+    justify-content: center;
+}
+
+.app{
+    
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+}
+header{
+    display: flex;
+    justify-content: center; 
+}
+footer{
+    display: flex;
+    justify-content: center; 
+
+}
+
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center; 
+  }
